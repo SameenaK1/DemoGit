@@ -1,3 +1,3 @@
 # DemoGit
-This is trial git repository
+This is trial git repository. </br>
 New Line added
